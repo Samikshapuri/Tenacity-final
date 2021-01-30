@@ -4,23 +4,29 @@
     <meta charset='utf-8'>
     <title>Disaster App</title>
     <meta name='viewport' content='width=device-width, initial-scale=1'>
-    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <link rel='stylesheet' type='text/css' media='screen' href='donate_in_cash.css'>
 </head>
 <body>
-    <form action="/paynow" method="post">
-        <label>Name</label><br/>
-        <input type="text" name="name" required/><br/>
-        
-        <label>Email</label><br/>
-        <input type="email" name="email" required/><br/>
-        
-        <label>Contact number</label><br/>
-        <input type="tel" name="phone" required/><br/>
-        
-        <label>Donation Amount</label><br/>
-        <input type="number" name="amount" placeholder="Enter Amount" required/><br/>
-        
-        <button type = "submit">Pay</button>
-    </form>
+  <div class="container">
+    <div class="box">
+      <form action="/paynow" method="post">
+          <h5>Name:</h5>
+          <input type="text" name="name" placeholder="Name" required/><br/>
+              <h5>Email Address:</h5>
+
+          <input type="email" name="email" placeholder="Email address" required/><br/>
+           <h5>Contact Number:</h5>
+
+          <input type="tel" name="phone" placeholder="Contact Number" required/><br/>
+
+          <h5>Donation Amount:</h5>
+          <input type="number" name="amount" placeholder="Enter Amount" required/><br/>
+
+          <button type = "submit">Pay</button>
+      </form>
+      </div>
+    </div>
+
+
 </body>
 </html>
