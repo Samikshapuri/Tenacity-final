@@ -1,4 +1,4 @@
-## Team-tenacity
+## Team-Tenacity
 
 ### Project - Raahat - Ek Koshish
 #### Mission:
@@ -8,7 +8,7 @@ and providing immediate, effective and sustainable support for the victims of na
 #### Tag Line
 Zakat without vanity leaves behind only blessings or ibadat from thousands of hearts filled, wounds healed and habitats built
 
-####3 R's
+#### 3 R's
 Rescue & Medical Assistance
 Relief - Distribution of Food, Water, Dry Ration, Bed, Hygiene and Educational Kits
 Recovery - Focusing on wash , education and livelihood
