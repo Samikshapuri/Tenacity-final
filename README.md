@@ -1,6 +1,9 @@
 ## Team-Tenacity
 
 ### Project - Raahat
+
+The entire project revolves around the concept of making donations, either in cash or by kind, for the people living in disaster struck areas.
+
 #### Mission:
 We aim towards building a network of some committed volunteers for disaster relief and recovery efforts across India. 
 and providing immediate, effective and sustainable support for the victims of natural disasters.
@@ -16,7 +19,7 @@ Relief - Distribution of Food, Water, Dry Ration, Bed, Hygiene and Educational K
 Recovery - Focusing on wash , education and livelihood
 
 #### How To Get Involved
-Donate By Cash
-Donate By Kind
+Donate By Cash or by kind.
+
 
 
