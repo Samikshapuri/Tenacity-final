@@ -1,10 +1,37 @@
-.thankyou-card{
-    margin-top: 150px;
+body{
+  overflow-x: hidden;
+  padding: 0;
+  margin: 0;
+}
+.thankyouCard{
+  align-items: center;
+  padding: 200px 500px 10px 500px;
+  background-image: url('https://images.pexels.com/photos/3445727/pexels-photo-3445727.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
-.thank{
-  left: 80px;
+@media(max-width:1135px)
+{
+  .thankyouCard{
+           padding: 260px 360px;
+  }
 }
+
+@media(max-width:843px)
+{
+  .thankyouCard{
+           padding: 260px 260px;
+  }
+}
+@media(max-width:646px)
+{
+  .thankyouCard{
+           padding: 260px 100px;
+  }
+}
+
 
 .container-2{
     height: 100%;
@@ -81,8 +108,16 @@
     opacity: 1;
     color: white;
     text-align: center;
+    font-weight: 500;
+    padding: 0px 35px;
+    
   }
   
+  .para{
+    margin-top: -12px;
+    margin-left: 25px;
+    margin-right: 20px;
+  }
   
   .card3:hover .envelope::before{
     transform: rotateX(180deg);
@@ -96,7 +131,4 @@
     z-index: 10;
   }
   
-  .donate-kind{
-    border-radius: 5%;
-    height: 300px;
-  }
+  
