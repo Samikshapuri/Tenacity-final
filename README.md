@@ -17,8 +17,8 @@ Zakat without vanity leaves behind only blessings or ibadat from thousands of he
 
 -Recovery - Focusing on wash, education and livelihood
 
-#### How To Get Involved
-Donate By Cash <br>
-Donate By Kind
+#### Methods of Donation:
+-Donate By Cash <br>
+-Donate By Kind
 
 
