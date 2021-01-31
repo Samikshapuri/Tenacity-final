@@ -103,6 +103,16 @@ body {
   border: black;
 }
 
+#button1>a{
+  color: #000;
+  text-decoration: none;
+}
+
+#button1>a:active{
+  color: #000;
+  
+}
+
 /*Styling for middle-conatiner*/
 
 .images {
