@@ -10,7 +10,9 @@ Zakat without vanity leaves behind only blessings or ibadat from thousands of he
 
 #### 3 R's
 -Rescue & Medical Assistance
+
 -Relief - Distribution of Food, Water, Dry Ration, Bed, Hygiene and Educational Kits
+
 -Recovery - Focusing on wash, education and livelihood
 
 #### How To Get Involved
