@@ -1,6 +1,6 @@
 ## Team-Tenacity
 
-### Project - Raahat - Ek Koshish
+### Project - Raahat
 #### Mission:
 We aim towards building a network of some committed volunteers for disaster relief and recovery efforts across India. 
 and providing immediate, effective and sustainable support for the victims of natural disasters.
